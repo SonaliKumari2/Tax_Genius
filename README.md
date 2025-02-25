@@ -1,11 +1,9 @@
 
-# 💰 Tax Assistant  :  "Your Smart Tax Assistant: Simplifying Tax Finalization with Ease!" . .
- 
-![Tax Assitant](https://github.com/uchiha-vivek/Llama-Impact-Hackathon-LablabAI.git)
-
+#  Tax Genius  :  "Your Smart Filing Assistant: Simplifying Tax Finalization with Ease!" . .
  
 
- "Tax Assistant" app is designed to make tax finalization stress-free and efficient. Using advanced AI, it guides users through tax forms, deductions, credits, and filing requirements. With easy-to-follow answers and personalized tips, the app helps users navigate complex tax processes, ensuring they maximize deductions, avoid errors, and meet deadlines. Perfect for both individuals and small business owners, this app streamlines tax preparation and provides expert assistance, all from one convenient, user-friendly platform. 
+
+ "Tax Genius" app is designed to make tax finalization stress-free and efficient. Using advanced AI, it guides users through tax forms, deductions, credits, and filing requirements. With easy-to-follow answers and personalized tips, the app helps users navigate complex tax processes, ensuring they maximize deductions, avoid errors, and meet deadlines. Perfect for both individuals and small business owners, this app streamlines tax preparation and provides expert assistance, all from one convenient, user-friendly platform. 
  NOTE : Many Features has to be developed yet .
 
 🚀 Proposed Features
@@ -28,7 +26,7 @@ Follow these steps to set up Tax Assitant on your local machine:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/uchiha-vivek/Llama-Impact-Hackathon-LablabAI.git
+   git clone url
    ```
 
 2. Navigate to the project directory:
@@ -72,44 +70,7 @@ Follow these steps to set up Tax Assitant on your local machine:
 
 8. Open your web browser and go to `http://localhost:8501` to use Tax Assistant !
 
-## 👥 Team
-
-Meet the brilliant minds behind Tax Assistant:
-
-<table>
-  <tr style="display: flex; gap: 50px; justify-content: center;">
-    <td align="center">
-      <a href="https://www.linkedin.com/in/vivekuchiha/">
-        <img src="images/Vivek.jpeg" width="180px;" alt="Vivek Sharma"/><br />
-        <sub><b>Vivek Sharma</b><br></sub>
-      </a>
-    </td>
-     
-  </tr>
-</table>
 
 
 
- 
 
-<!--
-## 🤝 Contributing
-
-We welcome contributions to Tax Assitant ! Please check out our [Contributing Guide](CONTRIBUTING.md) for guidelines on how to proceed.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
--->
-## Acknowledgements
-
-- [Streamlit](https://streamlit.io/) for the amazing web app framework
-- [Groq](https://console.groq.com/keys) for the powerful language models
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" />
-</p>
-
-<p align="center">
-  Made with ❤️ by the Tax Assistant Team
-</p>
