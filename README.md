@@ -226,10 +226,5 @@ Tax_Genius/
 
 ---
 
-## License
-
-Open-source for hackathon submission and learning. Add an explicit license file before commercial use.
-
----
 
 **Tax Genius** — Amplifying human potential by making tax filing clearer, faster, and less error-prone.
