@@ -1,0 +1,23 @@
+{
+  "name": "Tax Genius",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.11-bullseye",
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["README.md", "app.py"]
+    },
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-python.vscode-pylance"]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt && pip install pytest",
+  "postAttachCommand": {
+    "server": "streamlit run app.py --server.enableCORS false --server.enableXsrfProtection false"
+  },
+  "forwardPorts": [8501],
+  "portsAttributes": {
+    "8501": {
+      "label": "Tax Genius App",
+      "onAutoForward": "openPreview"
+    }
+  }
+}
